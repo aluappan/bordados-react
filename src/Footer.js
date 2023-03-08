@@ -1,7 +1,7 @@
 import styled from "styled-components"
-import imggithub from "./assets/icons/imggithub.png"
-import imginsta from "./assets/icons/imginsta.png"
-import imglinkedin from "./assets/icons/imglinkedin.png"
+import imggithub from "./icons/imggithub.png"
+import imginsta from "./icons/imginsta.png"
+import imglinkedin from "./icons/imglinkedin.png"
 
 export default function Footer(){
     return(

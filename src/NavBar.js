@@ -12,7 +12,7 @@ export default function NavBar() {
 }
 
 const Nav = styled.nav`
-    max-width: 35vw;
+    width: 40%;
     margin: 40px auto 0 auto;
     display: flex;
     justify-content: space-between;

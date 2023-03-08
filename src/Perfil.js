@@ -1,10 +1,10 @@
 import styled from "styled-components";
-import imgperfil from "./assets/perfil280.png"
+import imgperfil from "./icons/perfil280.png"
 
 export default function Perfil(){
     return(
         <Header>
-        <img src={imgperfil}></img>
+        <img src={imgperfil} alt={imgperfil}></img>
             <h1>Aluappan Bordados 👾</h1>
             <h2>Olá, que bom ver você por aqui! Sinta-se a vontade.</h2>
         </Header>
