@@ -10,7 +10,6 @@ export default function Content() {
         { bordado: "Kirby", imagem: "./assets/kirby.png" },
         { bordado: "K.K. Slider", imagem: "./assets/kk.png" },
         { bordado: "Pikachu", imagem: "./assets/pikachu.png" },
-        { bordado: "Pikachu", imagem: "./assets/pikachu2.png" },
         { bordado: "Pochita", imagem: "./assets/pochita.png" },
         { bordado: "Jigglypuff", imagem: "./assets/puff.png" },
         { bordado: "Tom Nook", imagem: "./assets/tom-nook.png" },
